@@ -11,7 +11,9 @@ body {
     padding: 100px 20px;
     color: #fff;
 }
-
+.bebe{
+    color: #f8f8f8;
+}
 .hero h1 {
     font-size: 3rem;
     margin-bottom: 10px;
